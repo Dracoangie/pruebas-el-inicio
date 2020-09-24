@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 sí está muy guay
-
-=======
-sí está guay
->>>>>>> modificaBuah
